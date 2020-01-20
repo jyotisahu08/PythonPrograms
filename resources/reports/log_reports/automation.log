@@ -1,0 +1,30 @@
+01/16/2020 11:30:29 AM -GenericMethods -INFO:Element found with locator: user_nameand locator type:name
+01/16/2020 11:30:30 AM -GenericMethods -INFO:Sent data on element with locator: user_name locator type: name
+01/16/2020 11:30:30 AM -GenericMethods -INFO:Element found with locator: user_passwordand locator type:name
+01/16/2020 11:30:30 AM -GenericMethods -INFO:Sent data on element with locator: user_password locator type: name
+01/16/2020 11:30:30 AM -GenericMethods -INFO:Element found with locator: submitButtonand locator type:id
+01/16/2020 11:30:32 AM -GenericMethods -INFO:Clicked on element with locator submitButtonlocatorType: id
+01/16/2020 12:01:17 PM -GenericMethods -INFO:Element found with locator: user_nameand locator type:name
+01/16/2020 12:01:17 PM -GenericMethods -INFO:Sent data on element with locator: user_name locator type: name
+01/16/2020 12:01:17 PM -GenericMethods -INFO:Element found with locator: user_passwordand locator type:name
+01/16/2020 12:01:17 PM -GenericMethods -INFO:Sent data on element with locator: user_password locator type: name
+01/16/2020 12:01:17 PM -GenericMethods -INFO:Element found with locator: submitButtonand locator type:id
+01/16/2020 12:01:21 PM -GenericMethods -INFO:Clicked on element with locator submitButtonlocatorType: id
+01/16/2020 06:57:20 PM -GenericMethods -INFO:Element found with locator: user_nameand locator type:name
+01/16/2020 06:57:20 PM -GenericMethods -INFO:Sent data on element with locator: user_name locator type: name
+01/16/2020 06:57:20 PM -GenericMethods -INFO:Element found with locator: user_passwordand locator type:name
+01/16/2020 06:57:20 PM -GenericMethods -INFO:Sent data on element with locator: user_password locator type: name
+01/16/2020 06:57:20 PM -GenericMethods -INFO:Element found with locator: submitButtonand locator type:id
+01/16/2020 06:57:29 PM -GenericMethods -INFO:Clicked on element with locator submitButtonlocatorType: id
+01/16/2020 07:01:17 PM -GenericMethods -INFO:Element found with locator: user_nameand locator type:name
+01/16/2020 07:01:17 PM -GenericMethods -INFO:Sent data on element with locator: user_name locator type: name
+01/16/2020 07:01:18 PM -GenericMethods -INFO:Element found with locator: user_passwordand locator type:name
+01/16/2020 07:01:18 PM -GenericMethods -INFO:Sent data on element with locator: user_password locator type: name
+01/16/2020 07:01:18 PM -GenericMethods -INFO:Element found with locator: submitButtonand locator type:id
+01/16/2020 07:01:22 PM -GenericMethods -INFO:Clicked on element with locator submitButtonlocatorType: id
+01/16/2020 07:07:01 PM -GenericMethods -INFO:Element found with locator: user_nameand locator type:name
+01/16/2020 07:07:01 PM -GenericMethods -INFO:Sent data on element with locator: user_name locator type: name
+01/16/2020 07:07:01 PM -GenericMethods -INFO:Element found with locator: user_passwordand locator type:name
+01/16/2020 07:07:01 PM -GenericMethods -INFO:Sent data on element with locator: user_password locator type: name
+01/16/2020 07:07:01 PM -GenericMethods -INFO:Element found with locator: submitButtonand locator type:id
+01/16/2020 07:07:05 PM -GenericMethods -INFO:Clicked on element with locator submitButtonlocatorType: id
